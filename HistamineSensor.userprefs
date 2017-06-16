@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{7EE706F3-ED0F-4A9B-88E8-E0A985BFF1EE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HistamineSensor/SheetViewController.cs">
+    <Files>
+      <File FileName="HistamineSensor/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="HistamineSensor/SheetViewController.cs" Line="68" Column="1" />
+      <File FileName="HistamineSensor/ViewController.cs" Line="38" Column="4" />
+      <File FileName="HistamineSensor/SelectionViewController.cs" Line="40" Column="1" />
+      <File FileName="HistamineSensor/SelectionViewController.designer.cs" Line="17" Column="9" />
+      <File FileName="HistamineSensor/ViewController.designer.cs" Line="1" Column="1" />
+      <File FileName="HistamineSensor/ParameterViewController.cs" Line="1" Column="1" />
+      <File FileName="HistamineSensor/ParameterViewController.designer.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.HistamineSensor PreferredExecutionTarget="Test1" />
+  <MultiItemStartupConfigurations />
+</Properties>
